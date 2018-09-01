@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MrRabZ/MrRabZ.unity
+  isLoaded: 1
+  isActive: 1
